@@ -1,0 +1,7 @@
+pandas
+prefect[all_extras]
+requests
+scrapy
+# Editable install with no version control (sower==0.1.0)
+-e .
+
