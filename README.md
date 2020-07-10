@@ -48,7 +48,7 @@ prefect agent start
 Register the flow,
 
 ```python
-python sower/flows.flow.py
+python sower/flows/flow.py
 ```
 
 Go to http://localhost:8080. Sit back and wait every week for the report on your email.
